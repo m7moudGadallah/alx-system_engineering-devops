@@ -17,4 +17,5 @@
 - ***[12. File type](./12-file_type)***
 - ***[13. We are symbols, and inhabit symbols](./13-symbolic_link)***
 - ***[14. Copy HTML files](./14-copy_html)***
+- ***[15. Let’s move](./100-lets_move)***
 

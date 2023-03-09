@@ -18,4 +18,5 @@
 - ***[13. We are symbols, and inhabit symbols](./13-symbolic_link)***
 - ***[14. Copy HTML files](./14-copy_html)***
 - ***[15. Let’s move](./100-lets_move)***
+- ***[16. Clean Emacs](./101-clean_emacs)***
 

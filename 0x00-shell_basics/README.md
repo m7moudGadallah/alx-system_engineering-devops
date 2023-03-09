@@ -11,4 +11,5 @@
 - ***[6. Welcome](./6-firstdirectory)***
 - ***[7. Betty in my first directory](./7-movethatfile)***
 - ***[8. Bye bye Betty](./8-firstdelete)***
+- ***[9. Bye bye My first directory](./9-firstdirdeletion)***
 

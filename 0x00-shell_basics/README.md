@@ -13,4 +13,5 @@
 - ***[8. Bye bye Betty](./8-firstdelete)***
 - ***[9. Bye bye My first directory](./9-firstdirdeletion)***
 - ***[10. Back to the future](./10-back)***
+- ***[11. Lists](./11-lists)***
 

@@ -19,4 +19,5 @@
 - ***[14. Copy HTML files](./14-copy_html)***
 - ***[15. Let’s move](./100-lets_move)***
 - ***[16. Clean Emacs](./101-clean_emacs)***
+- ***[17. Tree](./102-tree)***
 

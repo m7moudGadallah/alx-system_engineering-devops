@@ -15,5 +15,6 @@
 - ***[10. Back to the future](./10-back)***
 - ***[11. Lists](./11-lists)***
 - ***[12. File type](./12-file_type)***
-- ***[13. We are symbols, and inhabit symbols](13-symbolic_link)***
+- ***[13. We are symbols, and inhabit symbols](./13-symbolic_link)***
+- ***[14. Copy HTML files](./14-copy_html)***
 

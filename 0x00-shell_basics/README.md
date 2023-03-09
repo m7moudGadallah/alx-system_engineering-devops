@@ -14,4 +14,5 @@
 - ***[9. Bye bye My first directory](./9-firstdirdeletion)***
 - ***[10. Back to the future](./10-back)***
 - ***[11. Lists](./11-lists)***
+- ***[12. File type](./12-file_type)***
 

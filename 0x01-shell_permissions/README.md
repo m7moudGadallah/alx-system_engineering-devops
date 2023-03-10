@@ -9,4 +9,5 @@
 - ***[6. Multiple permissions](./6-multiple_permissions)***
 - ***[7. Everybody!](./7-everybody)***
 - ***[8. James Bond](./8-James_Bond)***
+- ***[9. John Doe](./9-John_Doe)***
 

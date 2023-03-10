@@ -8,4 +8,5 @@
 - ***[5. Execute](./5-execute)***
 - ***[6. Multiple permissions](./6-multiple_permissions)***
 - ***[7. Everybody!](./7-everybody)***
+- ***[8. James Bond](./8-James_Bond)***
 

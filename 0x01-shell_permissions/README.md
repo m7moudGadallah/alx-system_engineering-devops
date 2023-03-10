@@ -11,4 +11,5 @@
 - ***[8. James Bond](./8-James_Bond)***
 - ***[9. John Doe](./9-John_Doe)***
 - ***[10. Look in the mirror](./10-mirror_permissions)***
+- ***[11. Directories](./11-directories_permissions)***
 

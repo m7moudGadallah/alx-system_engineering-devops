@@ -21,4 +21,5 @@
 - ***[16. Clean Emacs](./101-clean_emacs)***
 - ***[17. Tree](./102-tree)***
 - ***[18. Life is a series of commas, not periods](./103-commas)***
+- ***[19. File type: School](./school.mgc)***
 

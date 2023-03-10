@@ -14,4 +14,5 @@
 - ***[11. Directories](./11-directories_permissions)***
 - ***[12. More directories](./12-directory_permissions)***
 - ***[13. Change group](./13-change_group)***
+- ***[14. Owner and group](./100-change_owner_and_group)***
 

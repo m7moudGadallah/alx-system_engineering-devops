@@ -12,4 +12,5 @@
 - ***[9. John Doe](./9-John_Doe)***
 - ***[10. Look in the mirror](./10-mirror_permissions)***
 - ***[11. Directories](./11-directories_permissions)***
+- ***[12. More directories](./12-directory_permissions)***
 

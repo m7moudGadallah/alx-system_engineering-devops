@@ -19,4 +19,5 @@
 - ***[16. What's next?](./16-whatsnext)***
 - ***[17. I hate bins](./17-hidethisword)***
 - ***[18. Letters only please](./18-letteronly)***
+- ***[19. A to Z](./19-AZ)***
 

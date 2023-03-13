@@ -18,4 +18,5 @@
 - ***[15. Count that word](./15-countthatword)***
 - ***[16. What's next?](./16-whatsnext)***
 - ***[17. I hate bins](./17-hidethisword)***
+- ***[18. Letters only please](./18-letteronly)***
 

@@ -15,4 +15,5 @@
 - ***[12. What’s new](./12-newest_files)***
 - ***[13. Being unique is better than being perfect](./13-unique)***
 - ***[14. It must be in that file](./14-findthatword)***
+- ***[15. Count that word](./15-countthatword)***
 

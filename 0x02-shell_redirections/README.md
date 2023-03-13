@@ -7,4 +7,5 @@
 - ***[4. Last lines of a file](./4-lastlines)***
 - ***[5. I'd prefer the first ones actually](./5-firstlines)***
 - ***[6. Line #2](./6-third_line)***
+- ***[7. It is a good file that cuts iron without making a noise](./7-file)***
 

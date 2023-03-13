@@ -17,4 +17,5 @@
 - ***[14. It must be in that file](./14-findthatword)***
 - ***[15. Count that word](./15-countthatword)***
 - ***[16. What's next?](./16-whatsnext)***
+- ***[17. I hate bins](./17-hidethisword)***
 

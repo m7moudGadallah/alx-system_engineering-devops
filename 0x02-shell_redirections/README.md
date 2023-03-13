@@ -12,4 +12,5 @@
 - ***[9. Duplicate last line](./9-duplicate_last_line)***
 - ***[10. No more javascript](./10-no_more_js)***
 - ***[11. Don't just count your directories, make your directories count](./11-directories)***
+- ***[12. What’s new](./12-newest_files)***
 

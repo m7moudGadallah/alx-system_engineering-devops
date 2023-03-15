@@ -8,4 +8,5 @@
 - ***[6. Local variable](./6-create_local_variable)***
 - ***[7. Global variable](./7-create_global_variable)***
 - ***[8. Every addition to true knowledge is an addition to human power](./8-true_knowledge)***
+- ***[9. Divide and rule](./9-divide_and_rule)***
 

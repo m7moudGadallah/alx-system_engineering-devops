@@ -7,4 +7,5 @@
 - ***[5. Local variables](./5-local_variables)***
 - ***[6. Local variable](./6-create_local_variable)***
 - ***[7. Global variable](./7-create_global_variable)***
+- ***[8. Every addition to true knowledge is an addition to human power](./8-true_knowledge)***
 

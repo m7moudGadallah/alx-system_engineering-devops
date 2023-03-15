@@ -14,4 +14,5 @@
 - ***[12. Combination](./12-combinations)***
 - ***[13. Floats](./13-print_float)***
 - ***[14. Decimal to Hexadecimal](./100-decimal_to_hexadecimal)***
+- ***[15. Everyone is a proponent of strong encryption](./101-rot13)***
 
